@@ -1,0 +1,9 @@
+services:
+  infrarisk-ai:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: infrarisk-ai
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

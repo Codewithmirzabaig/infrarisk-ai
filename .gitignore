@@ -1,18 +1,13 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
 .venv/
 venv/
-env/
+__pycache__/
+.ipynb_checkpoints/
 
-data/raw/
-data/processed/
+*.pyc
 
 models/
 mlruns/
 
-*.log
-*.tmp
+.streamlit/
 
-.DS_Store
+.env
