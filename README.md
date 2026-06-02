@@ -1,4 +1,8 @@
 # InfraRisk AI: Infrastructure Credit Risk Intelligence Platform
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-success)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Tests](https://img.shields.io/badge/Tests-Passing-success)
 
 ## Overview
 

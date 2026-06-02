@@ -1,0 +1,8 @@
+site_name: InfraRisk AI
+site_description: Infrastructure Finance Risk Intelligence Platform
+
+nav:
+  - Home: README.md
+  - Technical Report: docs/InfraRisk_AI_Report.pdf
+  - Credit Memo 1: docs/credit_memo_1.md
+  - Credit Memo 2: docs/credit_memo_2.md
