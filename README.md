@@ -4,6 +4,18 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
 ![Tests](https://img.shields.io/badge/Tests-Passing-success)
 
+## Key Features
+
+- Infrastructure Credit Risk Modeling
+- SHAP Explainable AI
+- Monte Carlo Stress Testing
+- Revenue Forecasting
+- InfraRisk Lab Simulation
+- MLflow Experiment Tracking
+- DVC Data Versioning
+- GitHub Actions CI/CD
+- Interactive Streamlit Dashboard
+
 ## Overview
 
 InfraRisk AI is an end-to-end infrastructure finance risk intelligence platform designed to assess, forecast, and simulate risks associated with large-scale infrastructure projects. The platform combines machine learning, explainable AI, quantitative risk analytics, forecasting, and simulation to support data-driven decision-making for project finance stakeholders.
